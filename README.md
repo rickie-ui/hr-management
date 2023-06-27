@@ -5,7 +5,7 @@ Start Project:
 > run  ```npm run dev```
 #### Go to localhost:8000 in browser
 #### To access  employee pages
-> ```localhost:8000/users/login - will access employee dashboard```
+> ```localhost:8000/users/login - employee dashboard```
 
 #### To access admin pages
 #### To register account
